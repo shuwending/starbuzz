@@ -81,3 +81,18 @@ a:visited {
    padding: 15px;
    vertical-align: top;
  }
+
+.headerleft{
+  float: left;
+  background-image: url(images/header.gif);
+  width:400px;
+  height:100px;
+}
+
+.headerright{
+  float: right;
+  background-image: url(images/header.gif);
+  width:400px;
+  height:100px;
+  background-position: -400px;
+}
